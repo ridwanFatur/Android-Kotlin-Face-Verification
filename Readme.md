@@ -4,6 +4,11 @@
 
 ![Home Page](Home%20Page.jpeg)
 
+## Demo Video
+
+🎥 You can watch the demo here:  
+[▶️ Face Verification Demo](https://youtube.com/shorts/BdV2PSRAfqo?feature=share)
+
 ## Features
 
 1. **Add Face Data**  
@@ -21,6 +26,9 @@
 - **Jetpack Compose** for UI  
 - **MediaPipe** for Face Detection and Image Embedding  
 - **Room** for Local Database  
+- **TensorFlow Lite Models**  
+  - `face_detection_short_range.tflite` → used for face detection  
+  - `mobilenet_v3_large.tflite` → used for image embedding  
 
 ## How to Use
 
@@ -34,7 +42,3 @@
 
 - All face data is stored locally; nothing is uploaded to any server.  
 - Ensure good lighting for accurate detection and verification.  
-
----
-
-Face Verification is a simple yet powerful tool for local face data management and verification on Android devices.
