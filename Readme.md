@@ -3,6 +3,7 @@
 **Face Verification** is an Android application built with Kotlin that allows users to add face data to a local database and perform real-time face verification using the device camera. This app leverages Jetpack Compose for UI, MediaPipe for face detection and embedding, and Room for local data storage.
 
 ![Home Page](Home%20Page.jpeg)
+[▶️ Watch Demo](Demo.mp4)
 
 ## Features
 
