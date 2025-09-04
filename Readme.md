@@ -7,7 +7,7 @@
 ## Demo Video
 
 🎥 You can watch the demo here:  
-[▶️ Face Verification Demo](https://youtube.com/shorts/BdV2PSRAfqo?feature=share)
+[▶️ Face Verification Demo](https://www.youtube.com/shorts/BdV2PSRAfqo)
 
 ## Features
 
